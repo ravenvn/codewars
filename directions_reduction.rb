@@ -25,5 +25,4 @@ def dirReduc(arr)
 end
 
 a = ["NORTH", "WEST", "SOUTH", "EAST"]
-# a = ["NORTH", "SOUTH"]
 puts dirReduc(a)
